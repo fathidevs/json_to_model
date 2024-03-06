@@ -5,9 +5,11 @@ Effortlessly streamline your development workflow by automatically generating Da
 
 **Benefits:**
 
-*Save time and reduce boilerplate code** Focus on your application logic, not repetitive model creation.
-**Improved code maintainability** Keep your models consistent and easy to update with changing API responses.
-**Enhanced readability and organization** Generated models clearly represent your data structure.
+- **Save time and reduce boilerplate code** Focus on your application logic, not repetitive model creation.
+
+- **Improved code maintainability** Keep your models consistent and easy to update with changing API responses.
+
+- **Enhanced readability and organization** Generated models clearly represent your data structure.
 
 **How It Works:**
 
